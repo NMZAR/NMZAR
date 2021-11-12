@@ -65,8 +65,10 @@
 [![Roktim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmzar)](https://github.com/anuraghazra/github-readme-stats)
 
 
+![Roktim's GitHub stats](https://github-readme-stats.vercel.app/api?username=nmzar&show_icons=true)
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nmzar&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
