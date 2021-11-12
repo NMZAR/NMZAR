@@ -67,6 +67,9 @@
 ----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NMZAR&exclude_repo=github-readme-stats,NMZAR.github.io)](https://github.com/NMZAR/github-readme-stats)
+
+
 
 
 
