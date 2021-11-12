@@ -71,7 +71,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nmzar&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmzar)](https://github.com/nmzar/nmzar)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/nmzar/nmzar)
 
 
 
