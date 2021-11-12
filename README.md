@@ -63,10 +63,10 @@
 ---
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NMZAR)](https://github.com/NMZAR/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NMZAR)](https://github.com/anuraghazra/github-readme-stats)
 
 
-api/top-langs?username=anuraghazra
+
 
 
 
