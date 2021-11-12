@@ -70,6 +70,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NMZAR&exclude_repo=github-readme-stats,NMZAR.github.io)](https://github.com/NMZAR/github-readme-stats)
 
 
+- name: Profile Readme Stats
+  uses: teoxoy/profile-readme-stats@v1.2
+
+
+
 
 
 
