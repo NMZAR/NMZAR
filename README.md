@@ -63,9 +63,10 @@
 ---
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NMZAR)](https://github.com/NMZAR/github-readme-stats)
 
 
-
+api/top-langs?username=anuraghazra
 
 
 
@@ -80,3 +81,7 @@
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
+
+
+
