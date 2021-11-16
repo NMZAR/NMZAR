@@ -19,6 +19,7 @@
 [<img align="left" alt="Zubair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Zubair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Zubair | stackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][stackOverflow]
+[<img align="left" alt="Zubair | Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" />][Reddit]
 
 <br />
 
@@ -77,6 +78,7 @@
 [instagram]: https://instagram.com/nmzarr
 [linkedin]: https://www.linkedin.com/in/zubayer-alam-a504ab17a/
 [stackOverflow]: https://stackoverflow.com/users/9536275/zubayer-alam
+[Reddit]: https://www.reddit.com/user/Nmzar_V
 
 
 
