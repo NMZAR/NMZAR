@@ -6,7 +6,7 @@
 ## I'm Student, Developer and a firend!!
 
 - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning NLP, AI & interacting with API's.
+- 🌱 I’m currently working with Machine-learning, NLP & interacting with API's.
 - 👯 I’m looking to collaborate with other who's working with AI.
 - 🥅 2022 Goals: Contribute an intelligent AI. 
 - ⚡ Fun fact: you are welcome.
