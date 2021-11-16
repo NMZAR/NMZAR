@@ -15,7 +15,6 @@
 
 [<img align="left" alt="Zubair | stackOverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" />][stackOverflow]
 [<img align="left" alt="taskko.org" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Zubair | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Zubair | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Zubair | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Zubair | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -71,7 +70,6 @@
 
 [website]: https://taskko.org
 [twitter]: https://twitter.com/Nmzar2
-[youtube]: https://www.youtube.com/channel/UC2AlGOb805S8OhjmI-LuvDA
 [instagram]: https://instagram.com/nmzarr
 [linkedin]: https://www.linkedin.com/in/zubayer-alam-a504ab17a/
 [stackOverflow]: https://stackoverflow.com/users/9536275/zubayer-alam
