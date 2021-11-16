@@ -52,19 +52,17 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+1. 🗣 Working On Leonel [#2](https://github.com/NMZAR/portfolio-sass/issues/2) in [Nmzar/Leonel_mind](https://github.com/Nmzar/portfolio-sass)
+2. ❗️ Closed issue [#2](https://github.com/NMZAR/portfolio-sass/issues/2) in [Nmzar/Replica](https://github.com/codeSTACKr/portfolio-sass)
+3. ❌ Closed PR [#11](https://github.com/facebookresearch/Replica-Dataset) in [Nmzar/free-developer-resources](https://github.com/Nmzar/free-developer-resources)
+4. 🗣 Commented on [#11](https://github.com/NMZAR/free-developer-resources/issues/11) in [NMZAR/free-developer-resources](https://github.com/NMZAR/free-developer-resources)
+
 <!--END_SECTION:activity-->
 
 </details>
 
 ---
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nmzar-pattalam&layout=compact)
 
 
  
