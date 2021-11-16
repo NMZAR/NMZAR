@@ -48,10 +48,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Working On Leonel [#2](https://github.com/NMZAR/portfolio-sass/issues/2) in [Nmzar/Leonel_mind](https://github.com/Nmzar/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/NMZAR/portfolio-sass/issues/2) in [Nmzar/Replica](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/facebookresearch/Replica-Dataset) in [Nmzar/free-developer-resources](https://github.com/Nmzar/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/NMZAR/free-developer-resources/issues/11) in [NMZAR/free-developer-resources](https://github.com/NMZAR/free-developer-resources)
+1. 🗣 Working On Leonel [Nmzar/Leonel_mind]
+2. ❗️ Closed issue [Nmzar/Replica]
+3. ❌ Closed PR  [Nmzar/free-developer-resources]
+4. 🗣 Commented on  [Nmzar/free-developer-resources]
 
 <!--END_SECTION:activity-->
 
