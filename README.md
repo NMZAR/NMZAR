@@ -48,10 +48,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Working On Leonel [Nmzar/Leonel_mind]
-2. ❗️ Closed issue [Nmzar/Replica]
-3. ❌ Closed PR  [Nmzar/free-developer-resources]
-4. 🗣 Commented on  [Nmzar/free-developer-resources]
+1. 🗣 Working On Leonel [ ] [Nmzar/Leonel_mind]
+2. ❗️ Closed issue  [ ] [Nmzar/Replica]
+3. ❌ Closed PR [ ] [Nmzar/free-developer-resources]
+4. 🗣 Commented on [ ] [Nmzar/free-developer-resources]
 
 <!--END_SECTION:activity-->
 
