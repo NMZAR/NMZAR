@@ -49,10 +49,9 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Working On Leonel [Nmzar/Leonel_mind](https://github.com/NMZAR)
-2. ❗️ Closed issue [#2](https://github.com/NMZAR) in [Nmzar/Replica](https://github.com/NMZAR)
-3. ❌ Closed PR [#11](https://github.com/NMZAR) in [Nmzar/free-developer-resources](https://github.com/NMZAR)
-4. 🗣 Commented on [#11](https://github.com/NMZAR) in [Nmzar/free-developer-resources](https://github.com/NMZAR)
-
+2. ❗️ Closed issue [Nmzar/Replica](https://github.com/NMZAR) 
+3. ❌ Closed PR [Nmzar/free-developer-resources](https://github.com/NMZAR) 
+4. 🗣 Commented on [Nmzar/free-developer-resources](https://github.com/NMZAR)
 <!--END_SECTION:activity-->
 
 </details>
