@@ -3,7 +3,7 @@
 
 
 
-## I'm Student, Developer and a firend!!
+## I'm a Student and Programmer!!
 
 
 - 🌱 I’m currently working with Machine-learning, NLP & interacting with API's.
