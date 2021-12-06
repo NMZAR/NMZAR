@@ -1,6 +1,6 @@
-### Hi there, I'm Roktim - [comment]: [website] 👋 
+### Hi there, I'm Roktim - 👋 
 
-[![Website](https://img.shields.io/website?label=taskko.org&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://taskko.org/)
+
 
 
 ## I'm Student, Developer and a firend!!
