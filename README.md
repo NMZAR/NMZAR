@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently working with Machine-learning, NLP & interacting with API's.
-- 👯 I’m looking to collaborate with other who's working with AI.
+- 👯 I’m looking to collaborate with other who's working with AI and Neuralink.
 - 🥅 2022 Goals: Contribute an intelligent AI. 
 - ⚡ Fun fact: you are welcome.
 
@@ -48,7 +48,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Working On Leonel [Nmzar/Leonel_mind](https://github.com/NMZAR)
+1. 🗣 Working On Leonel [Nmzar/Leonel_mind/Neuralink](https://github.com/NMZAR)
 2. ❗️ Closed issue [Nmzar/Replica](https://github.com/NMZAR) 
 3. ❌ Closed PR [Nmzar/free-developer-resources](https://github.com/NMZAR) 
 4. 🗣 Commented on [Nmzar/free-developer-resources](https://github.com/NMZAR)
