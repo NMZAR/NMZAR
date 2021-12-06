@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently working with Machine-learning, NLP & interacting with API's.
-- 👯 I’m looking to collaborate with other who's working with AI and Neuralink.
+- 👯 I’m looking to collaborate with other who's working with Neuralink.
 - 🥅 2022 Goals: Contribute an intelligent AI. 
 - ⚡ Fun fact: you are welcome.
 
